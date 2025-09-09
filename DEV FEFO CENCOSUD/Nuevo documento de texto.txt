@@ -1,0 +1,4 @@
+Borrar limitacion de kg. tomar todas las cajas de un corte y ordenar de menor a mayor por
+fecha de elaboracion.
+
+Verificar que funciona el rango de fechas (desde)
